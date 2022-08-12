@@ -113,7 +113,7 @@ var cnItems = {
     "Converts": "转换",
     "Energy": "能量",
     "energy and": "能量和",
-    "energy and -1 of each bit to produce 1 chip.": "每个位的能量和 -1 以产生 1 个芯片。",
+    "energy and -1 of each bit to produce 1 chip.": "能量和 每个 bit -1  以产生 1 个芯片。",
     "Energy Generator": "能量发生器",
     "energy per second.": "每秒能量。",
     "factories": "工厂",
